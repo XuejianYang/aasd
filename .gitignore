@@ -1,0 +1,3 @@
+# Project exclude paths
+/webpack的起步/dist/
+/webpack的起步/node_modules/
